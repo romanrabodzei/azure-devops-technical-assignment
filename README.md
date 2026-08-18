@@ -6,6 +6,16 @@ The solution should be production-oriented: reusable IaC, secure secret handling
 
 > AI tools may be used during the assignment but it is highly not recomended.
 
+## How to submit
+
+1. **Fork this repository** to your own GitHub account.
+2. Do your work on a branch in your fork (`main` or a feature branch — your choice).
+3. Commit as you go — commit history is part of the review, so prefer several meaningful commits over one large one.
+4. When done, **open a Pull Request from your fork back into this repository's `main` branch**.
+5. Make sure your PR description summarizes what you built and links out to `DESIGN.md`, `SECURITY.md`, and `AUTOMATION.md`.
+
+Do not request access to push directly to this repository — all submissions come in via PR from a fork.
+
 ## Deliverables
 
 In addition to the code under `infra/`, `pipelines/`, and `scripts/`, fill in:
