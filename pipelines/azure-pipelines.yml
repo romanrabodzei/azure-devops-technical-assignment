@@ -1,0 +1,10 @@
+# Azure DevOps pipeline definition.
+# TODO: define trigger, stages, and jobs for building/deploying the infra in ../infra.
+
+trigger:
+  - main
+
+pool:
+  vmImage: ubuntu-latest
+
+stages: []
