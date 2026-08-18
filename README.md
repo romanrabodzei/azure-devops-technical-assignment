@@ -6,6 +6,16 @@ The solution should be production-oriented: reusable IaC, secure secret handling
 
 > AI tools may be used during the assignment but it is highly not recomended.
 
+## Deliverables
+
+In addition to the code under `infra/`, `pipelines/`, and `scripts/`, fill in:
+
+- **`DESIGN.md`** — naming conventions, architecture decisions, environment differences, assumptions.
+- **`SECURITY.md`** — secret handling, identity/access, Key Vault model, network exposure (required by §1.3).
+- **`AUTOMATION.md`** — purpose and usage of your additional PowerShell automation (required by §3.8).
+
+Each file already contains prompts describing what's expected — replace them with your own content.
+
 # Technical Assignment
 
 ## 1. Infrastructure as Code — Bicep
