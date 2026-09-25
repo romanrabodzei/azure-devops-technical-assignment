@@ -45,7 +45,7 @@ The Storage Accounts must be created using a **loop** based on a configuration s
 | `hot` | Standard | StorageV2 | Frequently accessed data |
 | `datalake` | Standard | StorageV2 | Data Lake |
 
-The Storage Accounts should not all have identical configuration.
+The Storage Accounts should not all have identical configurations.
 
 The following requirements apply:
 
@@ -90,7 +90,7 @@ Document any assumptions and security considerations in the `README.md`.
 
 ### 1.4 App Service
 
-Deploy an Azure App Service that runs a standard Hello World container image https://mcr.microsoft.com/azuredocs/aci-helloworld
+Deploy an Azure App Service that runs a standard Hello World container image: https://mcr.microsoft.com/azuredocs/aci-helloworld
 
 The application does not need to implement any custom business logic.
 
