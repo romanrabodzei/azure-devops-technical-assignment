@@ -1,10 +1,10 @@
 You are joining a DevOps team responsible for deploying Azure infrastructure using Bicep and Azure DevOps YAML pipelines.
 
-Build a small reusable infrastructure deployment that can be promoted through Dev → Test → Prod environments.
+Build a small, reusable infrastructure deployment that can be promoted through Dev → Test → Prod environments.
 
 The solution should be production-oriented: reusable IaC, secure secret handling, parameterization, clear separation of environments, and basic operational automation.
 
-> AI tools may be used during the assignment but it is highly not recomended.
+> AI tools may be used during the assignment, but it is highly not recommended.
 
 ## How to submit
 
